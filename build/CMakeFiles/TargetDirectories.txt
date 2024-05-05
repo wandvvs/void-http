@@ -1,3 +1,0 @@
-/home/wand/cpp/void_http/build/CMakeFiles/void-http.dir
-/home/wand/cpp/void_http/build/CMakeFiles/edit_cache.dir
-/home/wand/cpp/void_http/build/CMakeFiles/rebuild_cache.dir

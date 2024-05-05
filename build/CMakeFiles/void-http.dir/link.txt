@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/void-http.dir/src/main.cc.o" "CMakeFiles/void-http.dir/src/void_server.cc.o" -o void-http  /usr/lib/libboost_system.so.1.83.0
